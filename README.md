@@ -1,5 +1,5 @@
 ## Microsoft-FRT-Intern-Project
-# Problem Statement:
+# Problem Statement
 The problem statement is to create an anti-ragging chatbot that provides resources, help, guidelines, and assistance to students through natural language interactions. Ragging, the practice of bullying and hazing of new students, is a serious concern in many educational institutions. This chatbot aims to address this issue by offering a user-friendly platform for students to access information, seek help, and report incidents of ragging. The chatbot should be able to understand the context of the student's queries and respond with relevant information, resources, and guidance to support them in dealing with ragging-related issues. The goal is to create a tool that empowers students, promotes a safe and inclusive academic environment, and helps eradicate the practice of ragging.
 
 # Description
