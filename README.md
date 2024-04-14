@@ -1,1 +1,14 @@
-# Microsoft-FRT-Intern-Project
+## Microsoft-FRT-Intern-Project
+#Problem Statement:
+The problem statement is to create an anti-ragging chatbot that provides resources, help, guidelines, and assistance to students through natural language interactions. Ragging, the practice of bullying and hazing of new students, is a serious concern in many educational institutions. This chatbot aims to address this issue by offering a user-friendly platform for students to access information, seek help, and report incidents of ragging. The chatbot should be able to understand the context of the student's queries and respond with relevant information, resources, and guidance to support them in dealing with ragging-related issues. The goal is to create a tool that empowers students, promotes a safe and inclusive academic environment, and helps eradicate the practice of ragging.
+
+#Description
+The core idea of this project is to create an interactive anti-ragging platform that leverages AI technology to provide comprehensive support and resources to students facing ragging-related issues. The primary problem this project aims to solve is the persistent and concerning practice of ragging, which continues to be a significant challenge in many educational institutions.
+
+To address this problem, the project has developed an AI-powered chatbot that serves as a central hub for students to access information, seek guidance, and report incidents of ragging. The chatbot is designed to understand natural language queries and provide tailored responses, offering students access to resources, guidelines, and immediate assistance. This solution caters to a clear need, as students often struggle to find reliable and accessible support when facing ragging-related problems.
+
+The project's purpose and functionality are directly aligned with the problem statement. By creating an interactive website and an AI-driven chatbot, the project empowers students to take proactive steps in addressing ragging. The chatbot's capabilities include providing information on anti-ragging laws, campus policies, and support services; guiding students on the steps to report incidents; and facilitating the submission of affidavits and complaints. This comprehensive approach ensures that the solution directly addresses the key aspects of the ragging problem and provides a user-friendly platform for students to seek help and take action.
+
+Furthermore, the project has established an anti-ragging community that serves as a support network for students. This community-driven approach, combined with the technological solutions, enhances the project's ability to reach a wider audience, raise awareness, and promote a culture of zero tolerance towards ragging.
+
+Overall, this project offers a holistic and innovative solution to the persistent problem of ragging, leveraging the power of AI and technology to empower students, foster a safer academic environment, and drive positive change.
